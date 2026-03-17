@@ -1,0 +1,15 @@
+{
+  "name": "Ocean State Libraries Mobile",
+  "slug": "oslri",
+  "easId": "96ee36a7-d7a0-481a-8798-4971442aa479",
+  "reverseDns": "org.aspendiscovery.oslri",
+  "discoveryUrl": "https://catalog.oslri.net/",
+  "greenhouseUrl": "https://catalog.oslri.net/",
+  "libraryId": "2",
+  "themeId": "57",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-oslri",
+  "sentryDsn": "https://6978d1f81c068549eb4d68a6a0f55561@o994439.ingest.us.sentry.io/4506853886263296",
+  "ascAppId": "6478874363",
+  "logLevel": "0"
+}
